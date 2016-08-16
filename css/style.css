@@ -1,0 +1,42 @@
+html {
+  cursor: url("../img/flower.png"), default;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+body {
+  background-color: #87cefa;
+}
+
+#cloud-sun {
+  width: 250px;
+  position: absolute;
+  right: 30px;
+  top: 10px;
+}
+
+div.animate {
+  width: 50px;
+  height: 50px;
+  position: fixed;
+  top: 70%;
+  left: 30%;
+}
+
+main {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  width: 60%;
+  margin: 0 auto;
+  margin-top: 20%;
+  color: #f5c525;
+  font-weight: 100;
+}
+
+.big {
+  font-size: 100px;
+}
+
+.small {
+  font-size: 30px;
+}

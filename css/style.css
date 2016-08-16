@@ -28,7 +28,6 @@ main {
   flex-direction: column;
   width: 60%;
   margin: 0 auto;
-  margin-top: 20%;
   color: #f5c525;
   font-weight: 100;
 }
@@ -39,4 +38,10 @@ main {
 
 .small {
   font-size: 30px;
+}
+
+svg {
+  width: 400px;
+  height: 400px;
+  margin:0;
 }
